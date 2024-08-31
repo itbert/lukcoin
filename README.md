@@ -9,11 +9,11 @@
 - ![Static Badge](https://img.shields.io/badge/license-MIT-white)
 
 ## what is this?
-A clicker for a currency invented by the developers in a `Telegram` chat bot
-The main and main element of our chat bot is `LUKCOIN` - the virtual coin itself
+- A clicker for a currency invented by the developers in a `Telegram` chat bot
+- The main and main element of our chat bot is `LUKCOIN` - the virtual coin itself
 `Lukcoin` - model of a conceptually new branches in digital development of `Lukoil`
-It is a means of payment in our bot. The main purpose of our currency is to maintain a system of activities inside the chatbot
-The bot has models similar to bank deposits and transfers to other people
+- It is a means of payment in our bot. The main purpose of our currency is to maintain a system of activities inside the chatbot
+- The bot has models similar to bank deposits and transfers to other people
 
 ## interface example
 ![Pasted image 20240901002534](https://github.com/user-attachments/assets/21d16ce1-dabf-4960-b91f-c41b8c428518)
