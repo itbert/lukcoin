@@ -22,8 +22,8 @@
 
 
 ## developers
-- @itbert
-- @ctrllife
+- itbert
+- ctrllife
 - Диммазда )
 
 ## project community
