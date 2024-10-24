@@ -24,7 +24,7 @@
 ## developers
 - itbert
 - ctrllife
-- Диммазда )
+- dimmazzda
 
 ## project community
 Telegram channel
